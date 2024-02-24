@@ -1,7 +1,7 @@
-class abhay
+class hello
 {
-	public static void main(String args[])
-	{
-		System.out.println("hello Abhay");
-	}
+public static void main(String args[])
+{
+	System.out.print("Hello");
+}
 }
